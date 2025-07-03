@@ -49,3 +49,14 @@ And now after restart the folders don't regenerate!
 - Removed the deletion of Tree Reg Folder aka "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree"
 
 ---
+
+**Task Destroyer V1.2 (Hotfix)**
+
+7/3/25 <3
+
+*Fixed*
+- Fixed misaligned Checkmark in "Delete All Microsoft Task"
+- Fixed misaligned Checkmark in "Delete System32 Task Folder"
+- Fixed Missing Checkmark in Task Destoyer Done Screen.
+
+---
