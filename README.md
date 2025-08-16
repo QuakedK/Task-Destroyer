@@ -8,8 +8,8 @@ Task Destroyer primary goal is to completely nuke all of Task Scheduler, whether
 Task Destroyer is required to be ran with Nsudo to delete Mircosoft Task without premission issues.
 
 1. Download [Nsudo](https://github.com/M2TeamArchived/NSudo/releases/download/9.0-Preview1/NSudo_9.0_Preview1_9.0.2676.0.zip) (Offical Site) or the Standalone exe from [Downloads](https://github.com/QuakedK/Task-Destroyer/raw/refs/heads/main/Downloads/NSudoLG.exe)
-2. Download [Task Destroyer](https://github.com/QuakedK/Task-Destroyer/releases/download/TaskSchedulerDeleter/Task-Destoyer-V1.2.bat).
-3. Open [NSudoLG.exe](https://github.com/QuakedK/Task-Destroyer/raw/refs/heads/main/Downloads/NSudoLG.exe) and Enable All Privileges then drop/drag [Task Destroyer](https://github.com/QuakedK/Task-Destroyer/releases/download/TaskSchedulerDeleter/Task-Destoyer-V1.2.bat) into Nsudo then click run.
+2. Download [Task Destroyer](https://github.com/QuakedK/Task-Destroyer/releases/download/TaskSchedulerDeleter/Task-Destroyer-V1.3.bat).
+3. Open [NSudoLG.exe](https://github.com/QuakedK/Task-Destroyer/raw/refs/heads/main/Downloads/NSudoLG.exe) and Enable All Privileges then drop/drag [Task Destroyer](https://github.com/QuakedK/Task-Destroyer/releases/download/TaskSchedulerDeleter/Task-Destroyer-V1.3.bat) into Nsudo then click run.
 
 # #2 Revert
 Note: If you created a Restore Point you can just use that <3
