@@ -1,5 +1,5 @@
 # Task Destroyer: The Orca Replacement!
-Task Destroyer primary goal is to completely nuke all of Task Scheduler, whether or not it's Mircosoft Task or App Task!
+Task Destroyer primary goal is to completely **remove** all of Task Scheduler, whether or not it's Microsoft Task, App Task or any Task!
 
 ![New Project (3)](https://github.com/user-attachments/assets/7b18f20a-ed6f-42fc-9a28-2a8f6c1a5c94)
 ![GitHub Release Downloads](https://img.shields.io/github/downloads/QuakedK/Task-Destroyer/total)
