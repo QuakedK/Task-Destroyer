@@ -60,3 +60,27 @@ And now after restart the folders don't regenerate!
 - Fixed Missing Checkmark in Task Destoyer Done Screen.
 
 ---
+
+**Task Destroyer V1.3**
+
+8/16/25 <3
+
+*Fixed*
+- Fixed all spelling errors of destroyer.
+- Fixed Task Destroyer Start Screen misspelling.
+- Fixed systemDrive variaable to have a captial S.
+- Fixed ❌ and ✅ spacing in "System Protection/Restore Point Failure" and "No Restore Point Selected"
+
+*Removed*
+- Removed TrustedInstaller Check, not needed since Ti needs to be enabled before running Task Destroyer.
+- Removed exclamation marks from Restore Point Screen.
+
+*Changed*
+- Changed Restore ASCII art from ANSI Shadow to Bloody.
+- Changed :CheckWindowsDrive goto command to :Check_Windows_Drive
+
+*Added*
+- Added Logging for No Console Version.
+
+---
+
